@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aylar Roshani 👋
 
-<!--
-**aylarroshani/aylarroshani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student at JKU Linz, Austria
 
-Here are some ideas to get you started:
+I'm interested in building practical AI solutions and improving my skills in software development, machine learning, and deep learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Large Language Models
+
+### 💻 Technologies
+
+Python • Git • GitHub • NumPy • Pandas • Scikit-learn • PyTorch
+
+### 🚀 Currently Working On
+
+- Building AI projects with Python
+- Strengthening my Machine Learning and Deep Learning skills
+- Developing my GitHub portfolio
+- Exploring LLMs and modern AI applications
+
+### 📌 Featured Projects
+
+Coming soon 🚀
+
+### 📫 Connect with me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
